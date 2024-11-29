@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    display: inline-block;
+}
+  .one{
+    width: 50%;
+  }
+  .two{
+    width: 50%;
+  }
+  .one .div1{
+    background-color: rgb(212, 234, 248) ;
+    color: #5b95ec;
+    width: 25%;
+    height: 300px;
+   text-align: center;
+   padding-top:  150px;
+    padding-left: 4.5px;  
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .one .div2{
+    background-color: #5b95ec;
+    color:rgb(212, 234, 248) ;  
+    width: 25%;
+    height: 300px;
+    text-align: center;
+    padding-top:  150px;
+     padding-left: 4.5px;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .two .div3{
+    background-color: rgb(212, 234, 248) ;
+    color: #5b95ec;
+    width: 25%;
+    height: 300px;
+    text-align: center;
+    padding-top:  150px;
+     padding-left: 4.5px;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .two .div4{
+    background-color: #5b95ec;
+    color:rgb(212, 234, 248) ;  
+    width: 25%;
+    height: 300px;
+    text-align: center;
+    padding-top:  150px;
+     padding-left: 4.5px;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+    
+     .one:hover .div1{
+        background-color: #5b95ec;
+        color:rgb(212, 234, 248) ;  
+     }
+     
+     
+     
+     .two:hover .div4{
+        background-color: rgb(212, 234, 248) ;
+    color: #5b95ec;
+     }
